@@ -1,0 +1,32 @@
+_repo: In-the-Open_42591
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42591-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kirkham, Stanton Davis
+    birthdate: 1868
+    deathdate: 1944
+    gutenberg_agent_id: '41764'
+    url: http://www.gutenberg.org/2009/agents/41764
+    wikipedia: http://en.wikipedia.org/wiki/Stanton_Davis_Kirkham
+description: ''
+gutenberg_issued: '2013-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42591'
+  lccn: 08024897
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Outdoor books'
+- !lcc 'QH'
+tableOfContents: The point of view -- Signs of spring -- Bird life -- Songs of the
+  woods -- Wild gardens -- Weeds -- Insect lore -- The ways of the ant -- Autumn studies
+  -- Pasture stones -- Neighbors -- The winter woods -- Laughing waters -- The mountains
+  -- The forest -- The sea.
+title: 'In the Open: Intimate Studies and Appreciations of Nature'
+url: http://www.gutenberg.org/ebooks/42591
